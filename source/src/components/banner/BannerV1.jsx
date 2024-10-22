@@ -17,14 +17,14 @@ const BannerV1 = () => {
                                             <img src="/assets/img/shape/anim-2.png" alt="Image not found" />
                                         </div>
                                         <ReactWOW animation='fadeInUp' delay='2000ms' duration="400ms">
-                                            <h4>Business Advisor</h4>
+                                            <h4>Nexus Data</h4>
                                         </ReactWOW>
                                         <ReactWOW animation='fadeInUp' delay='500ms' duration="400ms">
-                                            <h2>Grow <strong>business</strong> <br />with great advise</h2>
+                                            <h3>Cresça seu <strong>negocio</strong> com a transformação digital e impulsione a cultura data driven.</h3>
                                         </ReactWOW>
                                         <ReactWOW animation='fadeInUp' delay='900ms' duration="400ms">
                                             <p>
-                                                Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily.
+                                            Somos especialistas em transformação digital, impulsionando negócios por meio de soluções baseadas em dados e tecnologias em nuvem. Entre em contato conosco para descobrir como nossos produtos e serviços podem acelerar a inovação e otimizar os resultados da sua empresa.
                                             </p>
                                         </ReactWOW>
                                         <ReactWOW animation='fadeInUp' delay='1200ms' duration="400ms">
